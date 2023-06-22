@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**daviddablo/daviddablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-##### Hello! 
+##### Hello! 👋
 
 My name is David Dablo and I am a second-year undergraduate student at UC San Diego pursuing a Bachelor of Science in Political Science/Data Analytics. I am interested in descriptive representation in American elections and the implications of public policy in our everyday lives. I have experience working with STATA, R, and LaTeX (social science-preferred) as well as Java and HTML.
 
