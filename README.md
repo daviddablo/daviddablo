@@ -1,5 +1,5 @@
 ### Hello! 👋
 
-My name is David Dablo and I am a second-year undergraduate student at UC San Diego pursuing a Bachelor of Science in Political Science/Data Analytics. I am interested in descriptive representation in American elections and the implications of public policy and political economy in our everyday lives.
+My name is David Dablo and I am a second-year undergraduate student at UC San Diego.
 
-Here's my [LinkedIn](https://www.linkedin.com/in/daviddablo/)!
+Find out more about me here: [daviddablo.com](daviddablo.com).
